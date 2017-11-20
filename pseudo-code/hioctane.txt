@@ -1,0 +1,68 @@
+.> http://hioctane.dat.sh/
+
+.hioctane 2.0a
+-------------
+
+Start hioctane 2.0a
+-------------------
+
+.Running hioctane 2.0a
+.#################################################
+.  
+  
+hioctane 2.0a
+hioctane 2.0a Score: 22330
+.       
+Bench 1
+37671
+Core language features
+Bench 2
+14215
+Core language features
+Bench 3
+39890
+Bit & Math operations
+Bench 4
+76268
+Core language features
+Bench 5
+11640
+Memory & GC
+Bench 6
+64657
+Strings & arrays
+Bench 7
+5615
+Memory & GC
+Bench 8
+81546
+GC latency
+Bench 9
+41710
+Strings & arrays
+Bench 10
+5706
+Strings & arrays
+Bench 11
+34393
+Virtual machine
+Bench 12
+2142
+Compiler latency
+Bench 13
+10316
+Virtual machine
+Bench 14
+33254
+Loading & Parsing
+Bench 15
+70641
+Bit & Math operations
+Bench 16
+11112
+asm.js
+Bench 17
+32184
+Virtual machine & GC
+.  
+.  

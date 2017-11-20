@@ -1,0 +1,48 @@
+.> https://www.nyspcjis.net/menu/services/cjis/
+  
+.            NYSP-CJIS
+ --------------------------------
+.  WELCOME TO THE CJIS2000 SYSTEM
+ ################################
+.  
+  - NCIC 2000 Inquiries/Locates
+  - NCIC Validations
+  - NCIC 2000 Updates
+  - Alcotest Calculator
+  - NLETS Main Menu
+  - NJ inquiries
+  - NJLETS Main Menu
+  - MVC Inquiries
+.  
+.> MVC Inquiries        
+.     
+  
+  ** NYSP NCIC 2000 **
+.                 
+LIC:
+.         
+.> UVM7482
+.           
+LIC State:
+.       
+.> NY
+.            
+LIC YEAR
+.        
+.> 2015
+   
+.      
+. License expiration: 12/16/19
+. License state: NY
+. License year: 2015
+. VIN # 1HGCM82633A0043F2
+. DL # 51W223 817
+. First Name: Mark
+. Last Name: Mulregan
+. Street address: 296 Java Street
+. City: Brooklyn
+. Zip: 11222
+  
+.          
+.  
+ 

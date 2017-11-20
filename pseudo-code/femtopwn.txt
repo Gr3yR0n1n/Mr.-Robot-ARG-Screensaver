@@ -1,0 +1,37 @@
+BusyBox v1.15.3 (2017-11-15 01:42:08 CET) built-in shell (ash)
+Enter 'help' for a list of built-in commands
+  _______                      ___________        ___
+ |       |.-----.-----.-----.|   |   |   |.----.|   |_
+ |   -   ||  _  |  -__|     ||   |   |   ||   _||    _|
+ |_______||   __|_____|__|__||___________||__|  |_____|
+          |__|  W I R E L E S S   F R E E D O M
+Backfire (10.03.1, r29592) ------------------------
+   * 1/3 shot Kahlua In a shot glass, layer Kahlua
+   * 1/3 shot Bailey's on the bottom, then Bailey's,
+   * 1/3 shot Vodka then Vodka.
+---------------------------------------------------
+,root@OpenWrt:~/exploit_dev# cd bin
+,root@OpenWrt:~/exploit_dev/bin# ./EnableAttack femtopwn WLAN0,WLAN1 2
+Preparing FemtoPWN
+Starting Cellular & Wireless Radios
+Starting Femtocell:
+Bringing up cellular radios
+,########################(100%)
+Complete.
+Spoofing CELLID
+Testing backhaul: OK
+Femtocell UP and awaiting mobile devices.
+Starting WIFI
+Radios detected:  2
+Bringing interfaces up and applying config:
+,########################(100%)
+Complete.
+Designating one interface for EXFIL.
+Boosting Power on EXFIL Interface:  OK
+Wireless interfaces configured and running
+Wireless Radios Enabled.
+Loading Exploit Payload.
+Preparing MITM code.
+Configuring HTML landing page:  Done.
+Listening.
+root@OpenWrt:~/exploit_dev/bin#  

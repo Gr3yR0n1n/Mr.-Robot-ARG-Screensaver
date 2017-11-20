@@ -1,0 +1,30 @@
+.> http://i247.bxjyb2jvda.net/
+
+.C:\Documents\Research> dir
+  
+  Directory of C:\Documents\Research
+  
+<DIR> Invoke-Mimikatz
+      Shortcut to Ducky quack start guide.lnk
+      Shortcut to USB-Rubber-Ducky wiki.lnk
+      Shortcut to usb-rubber-ducky-quack-start-guide.pdf.lnk
+  
+  3 Files
+  1 Directory
+  
+.C:\Documents\Research> cd 
+  
+.C:\Documents\Research\Invoke-Mimikatz> dir
+  
+  Directory of C:\Documents\Research\Invoke-Mimikatz
+  
+      Shortcut to Invoke-Mimikatz.ps1.lnk
+      Shortcut to README.md.lnk
+  
+  2 Files
+  0 Directory
+  
+C:\Documents\Research\Invoke-Mimikatz> 
+.     
+  
+  

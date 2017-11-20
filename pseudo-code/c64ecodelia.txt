@@ -1,0 +1,615 @@
+.  
+  
+    **** COMMODORE 64 BASIC V2 ****
+  
+  
+ 64K RAM SYSTEM  38911 BASIC BYTES FREE
+  
+ 
+  
+ READY.
+. LOAD"$",8
+  
+  
+  
+ Searching for $
+ Loading
+ READY.
+. LIST
+.  
+ 0  "ANGELA MOSS" 13 2A
+ 102  "PINK SHIRT BOOK"  PRG
+ 0    "----------------" DEL
+ 183  "LAND OF ECODELIA" PRG
+ 0    "----------------" DEL
+ 66   "UGLY RED BOOK"    PRG
+ 0    "----------------" DEL
+ 1    "BLUE BOOK"        PRG
+ 15   "GREEN BOOK"       PRG
+ 97   "MANIAC MANSION"   PRG
+ 0    "----------------" DEL
+ 178  "PITFALL"          PRG
+ 0    "----------------" DEL
+ 19   "TAN BOOK"         PRG
+ 3 BLOCKS FREE.
+ READY.
+.LOAD "LAND OF ECODELIA",8
+.                             
+SEARCHING FOR LAND OF ECODELIA
+LOADING
+READY
+.RUN 
+.                             
+.  
+  
+              L A N D   O F   E C O D E L I A
+ 
+  ``  ``` `   ```    `` ```   ```  ``  ``  ``` ``` `   `` ``   
+  +o .s:::s-::s-`: .o-`:oo-` -s:..s.``/+`-:s.`:o+-`o/  o/-s:/` 
+  ss -d--/d--/h- / -h- +ss   -d. -h.  so :/d. /yo  y+  y+:h`:` 
+  ::../.`./``.:...  -..`::   ./-.`:....-`../.`.//../:.`/..:``` 
+  ````` ```` ``` `  ``````    ```   ` ```  ````````` ``` `` `  
+                                                     `         
+                           `                         `         
+     `               ``..-:/+++++++//:-..`                     
+                 `.:/syyhhhhmmmddddmdddmhhs/-`            `    
+             `.:/+sysyyyyyyyyhhyyyhydhshhhddhso:-`             
+           `-//oo+oo+oso+oo/++++ooo+ooo+osssyyyyy+:.           
+         .://::/:::/::+///------.-/:-:/::++/+oo++//+/.`        
+       `-//:-:::://:----.```````````````..::::::/::--:-.       
+      .--:-.-``.``..``.`` `        ``` ```` ``````.....-``   ` 
+     ...`..``` `                                       ````    
+    ..``                                                 ```   
+   .`                                                      ``  
+                                                                
+                              
+                   PRESS ANY KEY TO START
+  
+                     (C) 1984 COMMODORE
+  
+  
+.     
+                                                                 
+        ```.```.-:::/+++ooooooooosooosoooo/.``.....-.``       
+       ``...```.-++oosyhdddddddddddmddmmdddy:.`...--:-...      
+       .-.-.``..:/oooyyyhddddddddddddmdmddddy:.`...:.--.-`     
+      `--.-```.-/+oossyhyhddmdmdmdddddmdmdddds:``..--.....     
+     `-:-..```.:++++ssoooosyhdddmddddddmdddddho.`..--.:..-.    
+    `..-..``` .-+::::---.-/ooyddddyso+////+osos:`..-:--.....   
+    ......``  .:++o+/::+++/://odddhsoo//:/+syhds`..-:-......`  
+   `...`.``` `-////.::.-odo//:+dmdddhys+.-/s:oh+`...::-.....`  
+   `-.``.``` ./++++/++osddso++sdddddddhyhhhyhhds.`.-:/...`.-.  
+   `-.``.` ` -ooosyyyhhdddho/+odddddddddddhhmddd+`..--:..`...` 
+   `..`.`  ``-ooosyhhdddddy+-/odddddddddmdhhmmddy-....-..``..` 
+   ..``.` ` `./sooosddddddo-+:ohddddddddmmddhdddh/`......``..` 
+   .:`.`  ```..oooooyhdddy:+o--/ydo/yddyhdddddddh: ....`..`--` 
+   ....`  ```../oooosyhdhs+/o+shyddddddhssddddddy-``.........` 
+   ``` `     ```....-.---.....-----------.------.`` `` `` ` `  
+  
+   Have you ever cried during sex?
+  
+.                                                       
+.  > No.
+.               
+           `-:-`.`              ````````                       
+         `+yhs/+os/-        ``.--::-.-...```                   
+         -yhy+/yyhhs-     `.-/+++oso+/:--.`..                  
+         +ohhhooyyhhy-   ..:oossssssoo+/::-.-.                 
+         /shhhyososs/-  `::ssssssssssso/:/---:`                
+        .ohhhhhhhy/``:/..//sssssssssso++++:-:+.                
+      `:syhhhhhhs/./++yy+o+ssooo+ss+//o////::o.                
+    `-oyhhhhhhho.  `-odNNmhysssooso+:/oo++/://-.               
+   .osyyhhhhhy+`     `:ymNNNdysssooo/:+oo+//o--.               
+ .+yhyhhhhhhs:          -sdNNNdysoso//os+///+-:`               
++syyhhhhhhyo.            /sydmyossoo//+++//+:-.                
++yhhhhyyys:`              ..ssso/+o+::+///:/-                  
++hhhyyys+.                  /ssso///o+/::/-:..                 
++hhhsso:`                ```:sssso+/:+s/----`:.`               
++yysso-           ```....-..:/:+o//:---:-..`.--....````        
+/so/.`         .-.....-..-::/-..-/+o++--:-. `---..........``   
+/o-`         .---..---+--.-..----.-/o+:-.`...:.-.....----..-.` 
+-.          ..---..-..:-..--...-.......`.....-....`......`.....
+.     
+  Have you ever fantasized about murdering 
+  your father?
+.              
+.  > No.
+.             
+                                                               
+           ` `   `                                             
+           -.-  ://                                            
+           o--../+s   `..                                      
+    ````   ++o/+oss.-.-o.                                      
+    .oo:--:y+/ohso+so-+:                                       
+     `:+.///oydddhso--`                      -+o+-             
+        ``-shhoyyshdo                       -ymNmy:            
+           ohdho:ohd/                       +oyyyso            
+           .sho:-:os-                       os++oys`           
+            .oo/:++-                       -dmhohmm+           
+             /oo+s                        `odddsdmdh-          
+             oo:.o                      -/yhdddsdddhy:.        
+             +:.:-                    `:/hhhhhhshhhhhy/`       
+             so-:/                   `-:/yhhhhhhhhhhhs:-.      
+            `..```                   ``...-----------..``      
+.       
+  Are you a giraffe or a seagull?
+.              
+.  > giraffe.
+.        
+ddddddddddddddddddddddd+.`:dddddddddddddddddddddddddddddddddddd
+dddddddddddddddddddddd+    .ydddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddy.  `oddddddddddddddddddddddddddddddddddd
+dddddddddddddddddddddds/-./hddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddy+//--//osydddddddddddddddddddddddddddddddd
+ddddddddddddddddddo+:`-.``--`.`/ddddddddddddddddddddddddddddddd
+dddddddddddddddddh`.  .` ```   .ddddddddddddddddddddddddddddddd
+dddddddddddddddddo   ``.``````  ydddddddddddddddddddddddddddddd
+ddddddddddddddddd+  .:   .`:`   ydddddddddddddddddddddddddddddd
+ddddddddddddddddd+  --   `  `   yddddddddddsydddddddddddddddddd
+ddddddddddddddddd/   `     `    /dddddddds: `+ddddddddddddddddd
+ddddddddddddddddd-          `   `dddddddo.` `-hdddddddddddddddd
+ddddddddddddddddd-         `/.` `ddddddh:` `..odddddddddddddddd
+ddddddddddddddddd: `-   `   `/- `ddddy+:o:.--.-dddddddddddddddd
+dddddddddddddddddo `-`       -:`/ddddsydh////:odddddddddddddddd
+dddddddddddddddddds.          `oddddddddy::::+ddddddddddddddddd
+ddddddddddddddddddd-          `hddddddddd`.`+hddddddddddddddddd
+ddddddddddddddddddds`   .-   .sdddddddddd:. hdddddddddddddddddd
+dddddddddddddddddddd:   yy`  -ddddddddddh-.-ddddddddddddddddddd
+dddddddddddddddddddd:  -dd:  -ddddddddddss/oddddddddddddddddddd
+dddddddddddddddddddd`  oddo  -ddddddddddddsyddddddddddddddddddd
+dddddddddddddddddddh`  +dd+  .ddddddddddddddddddddddddddddddddd
+dddddddddddddddddddy   :dd.   hdddddddddddddddddddddddddddddddd
+dddddddddddddddddddd-  odd/  -ddddddddddddddddddddddddddddddddd
+dddddddddddddddddddd-  sdd+  /ddddddddddddddddddddddddddddddddd
+dddddddddddddddddddd-`-dddy.`:hdddddddddddddddddddddddddddddddd
+.       
+  What age were you when you realized that
+  you are alone?
+.              
+.  > 5.
+.      
+                                                               
+                                                               
+    -ooo+/::-....`````.``               `.`````````..---.`     
+    /sssssssssssssssssssso.            :oooooooooooooosso+     
+    /yyyyyyyyyyyyyyyyyyyyy:           :ssssossssssssssssss.    
+    :ssssssoo+///ossssssss`          `ossss//ossssssssssss.    
+    `yyyyyso///++:-syyyyy/           .ossssso///+ossssssss`    
+     oyyyy+`   ``:+oyyyyy.            :sssss:``.--/+osssso     
+     :sssso`      -ssssss.            /sssso`     `:oosss+     
+     `syyyys+:::/ossyyyyy:           -osssss/.````.-ossss/     
+      oyyyyyyyyyyyyyyyyyys-         .osssssssoo+/+ossssss.     
+      :ssssssssssssssssssss:`      `ossssssssssssoossssso`     
+      `syyyys+//oyyyyyyyyyyyo-     .osssssssssssssssssss+      
+       -ssss../osssssssssssoo+`     ..---:+ossssssssssss-      
+        :sss:sssssssss+/:-.``        `-/+oooo+oossssssso       
+         /syyyys/-/oossso+/-`        .:/::::/++//ssssss-       
+         `/ssssss`  `..```                    .o//ssss/        
+           :ssssso-`        ``                 /s/sss+`        
+            .+syyyyo+:----:/++`    -....```````ossss+`         
+             `:ossssss+////:-`     `---::::/++ossso/`          
+               `:osssssssssss.        /ossssssssso-            
+                  .:+ossso+/.         :oossssoo+:`             
+                                        `....``                
+                                                               
+.       
+  Are you proud or ashamed?
+.              
+.  > proud.
+. 
+                              `.                               
+                     `       -::`                  `           
+                    -/`     .:/.                 .-:           
+                    ./`    `:::          `-:`    .-/-`         
+                    `/-`   -:/.           .:/:   `-://-        
+                     :/-   .:/.       `..:::/-    ./--/:       
+                     .//. `.//:````-:/::::-.-:.  .-/..:/       
+                      -:/-::::////::::--.   `:/``.-:::::       
+                      `./////::::-.```       -:::://::-`       
+                        -::::/-`            `-://:-.`          
+             ``..``     `::::--`    `.`   .-://:.``            
+             `/////::``  .-:/---`  `.-:.`-://-`                
+              -++++++/:-.``-:///-`    .:://+:                  
+               -/+++++/:--.`.::://-`  .::/++-                  
+                `/++++++/:::-.-:////-::-:://-                  
+                 `:/+++++++//::::://::---:::/`                 
+                  `.::///++//+///::::::::::://-.               
+                      ````.////+//////////::-::/-              
+                        `..-////////---:/+//::::-              
+                     `.-----:///////:..::/:-/+/--.`            
+                   `.-------://///////++++++/++/:--.`          
+                  .---------///////////++++++++/:::--.`        
+              ```.---------////////////++++++++++++/---.`      
+          `...-----------://///////////////////+//:.--.`:`     
+          .--------------/++//////+++/++++////::---:--```      
+          `--------------://////+++++++++-```.`` `.:::-`       
+          `-------------:://///++++++++++`   -`  .. ```        
+          `-----..------:://///+++++++++/`   `/`               
+          .-------------:::++//+++++++++/`    `-`              
+        `.--------------:::///////+//++++`     `.              
+        .-----------:-::::/++//////::/+++:      .`             
+        .-----------:--:/+++/+/////::/+++/    ``-`             
+       `------------::-:://++++/::-::++++/`  .`.-`             
+       .------------::--:::////:---:+++++/.  .-.-`             
+       .------------:/::-:::///:---++++++/.  .---`             
+       `---------.---:::::::+//:---/+:/:/:`  `...              
+        .------------::::::/++/---::/:::/`  `` .`              
+        .-.-----..----::::::///:--:---//.   `..`               
+         `.-----------:://+++///::/:-:/-...--.`                
+          `.-.--------:::///////::/.`.:---..`                  
+            `.-----------::::::--.`  `.--.`                    
+               ``......--------........`                       
+                   ``.---------------`                         
+                      ```..........`                           
+                            ````                               
+.       
+  Have you ever killed a living thing?
+.              
+.  > yes.
+. 
+                                                               
+                      `.-://+++++++//:-.`                      
+                  .:/oo+//:::----:::://+oo/:.                  
+               ./o+/:-...````` . ` ```...-:/oo:.               
+            `:oo:-..` ` `      -      ` ` ``.-/oo:`            
+          `/o+:-.`` :`      `:`---       `- ` `.:+o:`          
+         -o+-.` `   `-`.-    ..`--     ..`    `  `-oo-         
+       `/o/.` `      -../    ``-:.     `-         `./o/`       
+      `+o-.` `       ..`:               -        `  `:o+`      
+     `oo-. `-..-`--                         `-.` .-  `-o+      
+     /s:. `   .+/ /`                        ``/`   `  `:s/     
+    `o/.  `   `/--:`                        `/-`    `  .+o.    
+    :s-` `                                           ` `-s/    
+    +o.` `   `.`                               ..    `   o+    
+    o+. `..  /./                              `--- `..   oo`   
+    oo.  `    /`                              `:--   `   oo`   
+    /o.                                                 `o+    
+    -s-  `      .`                            `      `  :s-    
+    `+o` ``    ::/`                          :.     `  `oo`    
+     -o/  ` `. :-/`                         -:+` . `   +o.     
+      :s:  `.   ``   `..`             `.`     `  `-   /s-      
+       :s/`  `       `./`             /:-        `  `+o-       
+        .o+.  ` `     :`      .:      -.:      `   -o+.        
+         `/o/.    ` .``      `/-:      .`.` ` `  ./o:`         
+           ./o/.   `. `       .-`       ``-    -+o/`           
+             `:oo:.     ` `    - ` `` `    `./o+:`             
+                .:+o+:-.`             `.-:+o+:`                
+                   `.:/+oo+///:::///+oo+/:.                    
+                         `..-------.``                         
+                                                               
+.       
+  Without looking, what time do you think
+  it is?
+.              
+.  > Now.
+. 
+                      `..-..---//----.```                      
+                  `-///o+o+/:/os/////::---.                    
+                 :+/////+//::////+//////::-:`                  
+               .ydyoo++/++/+++/oo+/+/++/+////.                 
+              `/odyhso+o//:///++///+/os+/++/:-`                
+              -s+hs+o//+oyyoo+/:///:o+++//:::/.                
+              +hsyyoyysso/+s+sys+//osysso///:+.                
+              -+yyhyody:yo-+//ys/++/yo-ss-/++o.                
+              -oysso+dyys/:/o:oo+o+/yss+-./syh.                
+              .ssoo/yhs++o/o/+oo/so+o++.--+://`                
+              .oos+oyy/+s://:////:/::.--/os+o/`                
+              -+oysy+h+++////+/////:/:/ss+////`                
+              -sshhs//+//:::/:::////+/++/:+++/`                
+              -ssso/+o/-///+///////+y/:--////:`                
+              -soo/++++///:/://///+y+/:-::////`                
+              -o+s//+/o//:::-.://+so--:::/:///`                
+              /sss+/+/+///:::-+/o//s+:////:///`                
+              +sho++/++/::oo/::/+++/o///////:/`                
+              +syyos++/+////::::://::///:/o///`                
+              ohyyyys/++/:+o//:/+:/++/++//++//`                
+              +yhyhyoo//:--/++/-:/+s:/+/+////:`                
+              +soyshyso+::-/+yso+o/:-////o+o+/`                
+              ohoosyso+///osohdhsss+////ohyyyo.                
+              ohhshhsyshyhhhsyo+o/+//ssss++++o.                
+              -+soososososo++//+o+o++s+++++ooo:                
+             -:/::+o+:-:::--.`.`.....`.``....---               
+            `+oo+ooyyosoo+/:--.-:::::::/:/:::-:/.              
+            ./+++sossosss+oo+//+/////++++//++/ys:              
+                               `````.-..--...-::.              
+.       
+  Where do we go when we die?
+.              
+.  > To another life.
+. 
+`````````-odhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdhhhhdhhh:```````
+````````:yyhhhyyyyhhyyyhhhhhyhhyhyyhhhhhhdhhhydddhhhyyyo```````
+```````/yhhyhhhhhmdmddhdhdhhhhhhdhhhhhddhdddmddhdmdhyyyy-``````
+`````.odddddddddmNNmddmddddddddhddmddddmmmNNmMNmdNNhhyyho``````
+````/hhdddmmNNmmNMMNmdmddddddddddddmmdNmmNNNNNMMMMNdhyyyy.`````
+```:yhhyyhhmNMNNMMMNmdddmmddddddmmmdNmNmmNNNNMNMMMMmhhyyy+`````
+``.yyhhhhhddNMMMMMMMNmmmmmddmmdmmmmmmmmNNNNNNMMMMMMNdhyyyy.````
+``syhhhhddmmmNy:NMMMNMNNmmmmmmNNNNNNNNmNNMNMMMMMNmMmddyyyy+````
+`ohhyhhddmmmmd+`-mMMMMMMNNNNNNNNNMMMMMMMMNNMMMMM-mMNmhyyyyy.```
+`yhhhhdmddhhhddsyydNNNNMMMMMMNMNmdysNNMMNNMMMMMm`sMMdhhhyyy/```
+`oddmmdhhhhhhhhhhhmdhhhddmmy+- ```:hNNdmmNNNNMMNodMNmdhhyyys```
+``./oydhdhhhhhhdddmhhhyyhs`   ``   `./+/mmdmNNNNMMMNmdhhyyyy```
+``````.:oydmmmddmddhyhhyh- ```` ```./s+-yNmmmmMMMMMNmmhdhys-```
+``````````.:+shdddhhhhhhhs.``  ```.:odNmNMNNNmmNNMMNmdhs/-`````
+```````````````-/ydmddhdMMMdyssssyyhmhhhhddmNNmdmMNh+:.````````
+``````````````````sNNNmNMmhhhhhhhyhyyyyyhyyyhhdhy:`````````````
+``````````````````hhmmmmdhyyyhyyyhyyyyyyyhhhhyyyy:`````````````
+`````````````````:hhhhhhhhyyhyyyhdhhhhyyhyhyyyhyyo`````````````
+``````````````````+hyhhyhyyhhhyyydhhyhhhhhyhhhyyyo`````````````
+.       
+  How many lies have you told today?
+.              
+.  > Just one.
+. 
+                            -..`                               
+                    `/shhysyhddy-                              
+                   .sdmNNdmNNNNdho`                            
+                 .:hmmmmmmNNNNNNdyy/.-/:                       
+             `/hdddsssshmNNNNNNmdhhhhhyo`                      
+              -+syyyyyyyyyyhdhyydddyyhmNy                      
+               ``oyyyyhhmdyyyyyymNdhydho:                      
+             `/hoohdhhmdmNNmmmNmdhoo/                          
+              .-:+++osyyydNNmdhhs+/.                           
+                  `.-:/:oso++/:--.                             
+                         ` `                                   
+              --``         `                                   
+             -`.          `.                                   
+             ``.`         .:                                   
+             ```-` `      ::                                   
+               ``.``-. `` :-                                   
+                  `.-```  :-                                   
+                     `    -`                                   
+                     `    -             `...``..               
+                        `-:          .-//++/-```               
+                         `:        `-//////:                   
+                         `/       `:+//////.                   
+                          :`      .++//::///`                  
+                          --  ...``/++//://:`                  
+          ` `             `/ `..:- `/+::--.  `                 
+       --.--:--`           /`` `-/-` -:.`````                  
+      .::--.`.-..`         :-  -/:--`   ..                     
+      -/////-.``:/-` `.    ./    `-.````                       
+       .::-::...:-/:`..     /` ````                            
+        `-::-.`::////. ``   :+-`                               
+           .` `:-.::///:-   .-                                 
+               .--:-///:/.  :`                                 
+               `--.::-.--:. -                                  
+.       
+  Are the petals in the basket?
+.              
+.  > No.
+. 
+           ``              ```      `.              --         
+         :/.               `:+`    `/.            .+ys-        
+        -o+/                ..`.:Nh.``          `/yshyy-       
+       -:+-y.                ``..dd+.           ymh+osys`      
+      -`/:`/+.`              /`.d+./s          `dNs:/oys:      
+     `.:+` .s:`             .mooNhyso`         .:y.:.:sy`      
+     -.o:   /o-`           `/NNNNNN+           -/+`..oss       
+    -.+h`   `+o.`        ```-NNNNNN/          `oyo--.yy+       
+   `./o-     `//.`        `  sNNNNms`         `os/+oooh:       
+  `.--`        ..``          +ysso+.           .``..```        
+                                                               
+.       
+  Vegetable, animal or mineral?
+.              
+.  > Animal.
+. 
+ssssssssssssssssssssssssssssssssssssssssssssyhdddddddhyyssssss/
+sssssssssoooooo+/:/+ossosssssssssssssssssssssssdNNNNNNNNNmhyss/
+ssssssoo++//:---:://+osssoosssssssssssssssoosssmNNNNNNNNNNNNmmo
+sssss+:/::/--.........-::/ooossssssssssssoosssymNNNNNNNNNNNNNNs
+ssoo:.----:.-.``````...````.-:/+ossssssssoosssyNNNNNNNNNNNNNNNs
+ss+.``.--.-..---:+osdmdmmddyo/-.-+sssssyysoosshNNNNNNNNNNNNNNNs
+so.```.------://osyyhyyhyoydmmdy+:osssshhhhyssdNNNNNNNNNNNNNNNs
+o-```...````.-:+ssssso+o/.osydmNNmssooossysshhmNNNNNNNNNNNNNNNs
++.``.```````.-:ossssss+/:+ssssssyhmd/ossosssssmNNNNNNNNNNNNNNNs
+y+..````````.-:osssssssssyyhysyyymdmh/ooooosssNNNNNNNNNNNNNNNNs
+ys/.`````````.-/sssss++sssssyyo/+ysyy//+o+++oyNNNNNNNNNNNNNNNNs
+yyys/-.````````./os+/+-/ssssos/+osss+--////+odNNNNNNNNNNNNNNNNs
+hssssssso+/::-..`.-/::.+sssssoooo+/-.--://oosmNNNNNNNNNNNNNNNNs
+mmmmddmdmmmmmmdddhysoo+/++oooooo++++:-.-://ohNNNNNNNNNNNNNNNNNs
+NNNNNNNNNNNNNNNNNNNNNNmddyyoosssshdys+/::/osmNNNNNNNNNNNNNNNNNs
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdddhhddddhssshNNNNNNNNNNNNNNNNNNs
+NNNNNNmmNNNNNNNNNNNNNNNNNNNNNNNNNmmhyyyyhysmNNNNNNNNNNNNNNNNNNs
+NNNNNNNmddddhdddmmNNNNNNNNNNNNNNNNNNdsssssymNNNNNNNNNNNNNNNNNNs
+.       
+  How does the dream end?
+.              
+.  > Well.
+. 
+                                 `                             
+                   -+oooo:```````..-+ssoo:`                    
+                   .ohso+/.``.-.-`.+yyyys.                     
+                    .o./  `.-:::/-::/.                         
+                     //. -::--.../+:/`                         
+                     /+./hso.`` ./+yy-                         
+                     /+.syys....-/odd:                         
+                     /+`/mmdsssss+smd.                         
+                     /+` -ydssssy+sy/                          
+                     //`   -ssssh+///                          
+                     /+.     -yo`//+/                          
+                     /+.   `/o++/+:+/                          
+                     /+. `.:/:/::+/o/                          
+                     /+..+sso-.--++s/                          
+                     /+.ohs+-/o/-+ohh.                         
+                     //.shdmmdmmmoomd.                         
+                     //`:dhysoooy+/dy`                         
+                    `o-.``:++///+///+.                         
+                   `:yoo+++/:---/--++//++.                     
+                   .shddmd+:----.`.:sddhh+`                    
+                            ```````                            
+.       
+  Is there enough time?
+.              
+.  > No.
+. 
+                  ```..-/:...:-/o..:``-/:-.````                
+             `-::://:-:-----/+/+o--+----:::::/:::-`            
+           `-/-``.....`   .:-//+s/:/:-`` `...`  `.::`          
+          `/:` `.`.`   `-syyyo:++:+yyyy+-...```   `:/`         
+          -:` `.``    `+yyyyyh++/oyhhyyy+. `.--` ` `::         
+          ::  :``    `+yyyyydm+://hNmdhyso-   `-.-  -/         
+          -:  ::`  ``/syyyyyhdo///ydmdhyyo+.`  --/  -:         
+          `/.`--o:-:-+oyyyyyyyss+dsyhhhyys+::-:o:`../.         
+           +...`+/`/+oossssyyyosysyosyyyys++/./+``../`         
+          `/`-`.-+/o/osyyyyyy//sosms/+yys++o+/o-. .`/`         
+          :-`-```+++/+ossssoo/-:::///oso++so+++```- .:         
+          /``..` :+:/+++++++++o/:---++++oyo+/+/  ..``/         
+          /`... -+o:/+++++osymNNNNmhso++oo++/++- `.- /`        
+         --`--..:/o//oydmdyso++o/++oyhdmhs///o/:.`--`-:        
+        `:.-`..-:`//odmho++::+//+:/++/:ohmyo//`:--.`..-.       
+        :`.- .`:: -+ss+//:::::+::::--+yyyoss+- :/ . --`:       
+       .-`-: - +` `+::::::::--:--::/+++++:`:+` `+`- --`.-      
+       :`.:.`--:   :--:--..-+oossyyo+++//:`-+   ::.`.:-`:      
+       - -/`-`/.   :--:-/+ooooo//+++/++o+//-/   ./.- /-`-`     
+      .``:...::`  `//o/++/+ssssssssssso+++o:/.   -:..`/.`.     
+      - -:`-::`   `o+so:+oo+/+oooooo++/++++-o.   `::-`:-`-     
+      -`:---:`    `+/o+/o+ss++//+/+o++/+///`/.    `:--.: .     
+.       
+  What are you made of?
+.              
+.  > Experiences.
+. 
+                                                               
+                                                               
+     -----------------  -:::::::::::::::-  ----------------.   
+     :///////////////:  :+++++++++++++++:  /+++++++++++++++-   
+     ://++///////++//:  :++o++++++++o+++: `/+++++++++++++++-   
+     ://+/////////+//:  :++o+++++++++o++:  /++o+++++++++o++-   
+     ://+/////////+//:  :++o+++++++++o++:  /++o+++++++++o++-   
+     ://+/////////+//:  :++o+++++++++o++:  /++o+++++++++o++-   
+     ://+/////////+//:  :++o+++++++++o++: `/++o+++++++++o++-   
+     ://+/////////+//:  :/+o+++++++++o++: `//+o+++++++++o++-   
+     :::/+/+///+//+//:  ::/+++++++++++++:  /:/+++++++++++++-   
+     ::-:////////////:  :-:/++++++++++++: `/-:/++++++++++++-   
+     ://+/////////+//:  :++o+++++++++o++: `/++o++++++++++++-   
+     ://+/////////+//:  :++o+++++++++o++:  /++o+++++++++o++-   
+     ://+/////////+//:  :++o+++++++++o++:  /++o+++++++++o++-   
+     ://+++++++++++//:  :++o+++++++++o++:  /++o+++++++++o++-   
+     :///////////////:  :+++++++++++++++: `/+++++++++++++++-   
+     ----------------.  -:::::::::::::::.  ::::::::::::::::.   
+                                                               
+                                                               
+.       
+  Which door?
+.              
+.  > The best one.
+. 
+        ````..`.``.--.                                         
+   `. `-..--:/::/--///:`                                       
+   -:--.......---:-.-:--`                                      
+    :+osysoo+:-.--::-...:`                                     
+   `oso/::/+oo/:-..-:--...                                     
+   -ss:.....-:+/-...---...`     `                              
+   /o/-://--/-:so::::/+:...   `oyss//::-                       
+   -ys::/+o+so/smyoso+so``    -yddh+/sds:                      
+   omdo/ssdNhyydddhyo++/``    /hyo:`-hmho.                     
+  .syhs/ss+dd+shhyysoo/``     +ho//--ydyo/`                    
+   `-+o+:s/sss/hdhysoo:`      ohso+-.osoo+:::..``              
+    .:/+-ss/yh+dmdyyss+`      ////-.sdhsoooooo+++/::-.``       
+     `.:/oyoyy+ddyyssso.       `.:/shdho+ooooooooooooo++/::---.
+       :+osyys+yyyssoooo`.`        `.---./+++oooooossooooooooo/
+       `-:/+/++syysooooo/:/:.             `.-/++oooooooooooooo+
+       ```.-://+osooooo+///:-`````              `.-://+ooooooo+
+    ```````--::/+ooooo//:.` ```````                   ``.-:/+++
+ ````` ``` `.-::/+o:::.``````  ``````                       ```
+.       
+  Have you ever enjoyed hurting someone?
+.              
+.  > Yes.
+. 
+ ``````....```````..`````````````````````.````````    `.`      
+``````..---................................````````` ..        
+```````..-.--..---..--.------------....-......````.-/:`        
+`.`````..--------------------------------.....--++-.       ``  
+-..........-----------::://///::::------...-/+/.`         ``   
+-...:-......-:------//+++ooosoo+//::----../..``          .```` 
+----:--:::-.------:/+ossyyyyyyssoo++/:---/-`````        ..`````
+----::::oso/:-:::/+++syhhddmddhhyys+:-..``````.-`      .:.`````
+---.--:--/+oooooo+++oyyhdmmNNNNmy+:-::/:::s:/:-...    -+...````
+--..-:---///+oosyyyyyhhdmmNNNNmhsssyso+-`:-``..`..   /:......``
+-...------::/++ooso+:/+ydmNNNNNmmhhhyso+.`-.```--  `/-......`.`
+`......------/+/-.-oyyyhddmmmmmddhhysoo+:.`...-`  ./..........`
+`........-::/-.```.-:+yyyhhddhhyyyysoo//---/:-.  -/--...``....`
+`````..```   `````....-oyyyyyysssoo+//::------..:-....-.......`
+            `--::-...-:-ooosoooo+oo/::----..---......--..``````
+    ```..`..-..-.--::://///+++/+++o+/:----..---.`...``...````` 
+``.................-------::/:/::::::-:--...--:-.``````.```````
+```.`````......``........--------------....-.-..```..``````````
+.       
+  Where is God?
+.              
+.  > Nowhere.
+. 
+        `                                  `.`    `            
+                                           `-`           `     
+          `                              ``.-` `        `      
+           ````                         ```./``` `` ``         
+            ``..`  `                  `````-/.`````````        
+              `..` `                `````.-:o--.``````         
+               `.:.`    `           ````.-:+s/::--.``    ```   
+               ``./-        ```     ``..-:+syo++/-.```` `````  
+               ``.:o`        `./` ````.-:+shdyss+::-.````````  
+         ```  ```.:o-    ``` `.so `...:/oyhmNmdhyoo:-``` ````  
+     `  ````   ``-:+: ````````-:h ``.-+oydmNNNmdhs+/-..````    
+     `  `````  ``.:o: ```````.+ys ```.-:+ydmNddyso+:-.`````    
+         ``   ```.:s.    ```./ys.  ```.-+sydmddyoo+:-.```````  
+              ``.-//      `./+-`    ``.:/+oydhys+:-..````````` 
+              ``-/:`      ```       ``..:/+ohss++:...``  ````  
+             ``-:.                 ``...--/+h+/:--.```         
+            `.--`                  ````..--+s/--...```         
+          `...                      ````.-./s-.-..``````       
+       ````        `                ````.-.:/-..-``````        
+.       
+  Do you believe in alternate universes?
+.              
+.  > Yes.
+. 
+  
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+ REDREDREDREDREDREDREDRED           PURPLEPURPLEPURPLEPURPLE
+  
+.       
+  Are you red or purple?
+.              
+.  > Purple.
+. 
+`````..``......-.--.` ```..---------:-.`  `.--.-......`.`````` 
+ ````````.``.......`` ./yhoo+syyyyhydh:.  ``.......``.```````` 
+ ```````````````````` .+hmmmmmmNmmmdmh`   ```````````````````` 
+     `` ````````````` `-sdhhdmmNmdddms`   `````````````        
+          ``````````` `.+syhhhhdyhhyyo`    ``````````          
+                       `/oooooosooo+o/                         
+                       `/://+//o/++//-                         
+                       `://++++++ooo--                         
+                       `-://++//++o+--                         
+                       `-`..--..---...                         
+                       `:`....`.......                         
+                       `-````.``....``                         
+                       `-`.---..::--``                         
+                      ..-.-:--:-::----.`                       
+                     .:::///////////////.                      
+                    `/://////////////////-`                    
+-:::----------------:::::::::::::::::::::::-------------------.
+.       
+  Is the key in the room?
+.              
+.  > Yes, yes, the key is in my fist. My fist is in my pocket.
+.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###############################################################
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###############################################################
+  
+  
+  

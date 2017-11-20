@@ -1,0 +1,23 @@
+.> http://yac9cl78.bxjyb2jvda.net/
+.  
+root@K6F7241:/ups_update
+
+root@K6F7241:~$ ssh upsadmin@192.251.68.229
+upsadmin@192.251.68.229’s password:
+  
+E Corp Power Management Systems         Network Management Card OS v.6.4.0
+© Copyright 2012 All Rights Reserved
+--------------------------------------------------------------------------
+Name     : PD511326                              Date : 09/29/2015
+Contact  : Matt Mitchell                         Time : 12:41:37
+Location : NY Recovery Building                  User : upsadmin
+Up Time  : 0 Days, 6 Hours, 34 Minutes           Stat : P+ N+ A+
+  
+.ups> upsfwupdate -status
+.  
+Last updated 09/29/15 06:04
+.  
+ups>
+.  
+.  
+.       

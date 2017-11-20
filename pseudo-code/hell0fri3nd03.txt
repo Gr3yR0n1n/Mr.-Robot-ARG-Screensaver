@@ -1,0 +1,25 @@
+-!- friend_ [friend_@128.0.0.1] has joined #fsociety.
+.<mr. robot>Hello friend. Welcome back. The battle continues. The question now is what shape it takes. To save the world, must we first destroy it? Or is the answer to work from within? When everyone wears a mask, how do we know who the true enemy is?
+.<mr. robot>Sooner or later, we are all faced with a decision. We can give in to regret, or we can sharpen our resolve. Push forward or hit reset. Fall or fight on.
+.<mr. robot>Disintegrate... or evolve.
+.<mr. robot>The revolution is here again. What will be your choice?
+Commands:
+fsociety_endgame
+massacre
+join
+archive
+.root@fsociety:~# join
+   
+.<mr. robot>Hello, friend...
+.<mr. robot>It's an exciting time in the world right now.
+.<mr. robot>A revolution has begun. One that's struck a chord with the people. People like you. People who are tired of feeling trapped. Tired of feeling like they have no voice. Tired of feeling exploited. Controlled. Isolated in a connected world.
+.<mr. robot>We don't have to accept it. We have more power than they think.
+.<mr. robot>Change is coming.
+.<mr. robot>Will you be part of the problem? Or part of the revolution?
+.<mr. robot>Enter your email below.
+.<friend__> #########@#######.###
+   
+
+.<mr. robot>Almost there.
+.<mr. robot>Now we just need to know you are who you say you are.
+.<mr. robot>Check your email for a chance to prove yourself.  Click the link within if you’re truly ready to join.

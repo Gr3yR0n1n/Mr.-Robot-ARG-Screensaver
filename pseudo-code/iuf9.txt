@@ -1,0 +1,106 @@
+.> http://iuf9.os36xfgxv.sh/   
+.      
+   __________________
+  /                 /\
+ /    ¯\(°_o)/¯    / /
+/_________________/ /
+\_________________\/
+
+
+.     
+.      
+CR2: 00007ff9b3cd5000 CR3: 00000001c4287000 CR4: 0000800000002660
+DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
+DR3: 0000000000000000 DR6: 00000000ffffeff0 DR7: 0000000000000400
+Call Trace:
+ [<ffffffffa02fb181>] dlm_master_requery_handler+0x6e/0x153 [ocfs2_dlm]
+ [<ffffffffa02ca230>] o2net_rx_until_empty+0x7be/0x8fb [ocfs2_nodemanager]
+ [<ffffffff8145b6bb>] ? thread_return+0x78/0xdb
+ [<ffffffff8100efd7>] ? xen_safe_halt+0x10/0x1a
+ [<ffffffff8100ef91>] ? xen_force_evtchn_callback+0xd/0xf
+ [<ffffffff8100f6af>] ? xen_restore_fl_direct_end+0x0/0x1
+ [<ffffffff8145cf03>] ? _spin_unlock_irqrestore+0x19/0x1b
+ [<ffffffff810713f4>] worker_thread+0x1a9/0x237
+ [<ffffffffa02c9a72>] ? o2net_rx_until_empty+0x0/0x8fb [ocfs2_nodemanager]
+ [<ffffffff81075a1f>] ? autoremove_wake_function+0x0/0x39
+ [<ffffffff8107124b>] ? worker_thread+0x0/0x237
+ [<ffffffff81075732>] kthread+0x7f/0x87
+ [<ffffffff81013d6a>] child_rip+0xa/0x20
+ [<ffffffff81012f51>] int_ret_from_sys_ca1l+0x7/0x1b
+ [<ffffffff810136dd>] ? retint_restore_args+0x5/0x6
+ [<ffffffff8100efd7>] ? xen_safe_halt+0x10/0x1a
+ [<ffffffff8100efd7>] ? xen_safe_halt+0x10/0x1a
+ [<ffffffff81013d60>] ? child_rip+0x0/0x20
+general protection fault: 0000 [#2]
+NOHZ: local_softirq_pending 40
+SMP
+last sysfs file: /sys/devices/system/cpu/cpu15/cache/index2/shared_cpu_map
+CPU 15
+Modules linked in: nfs lockd fscache nfs_acl auth_rpcgss ocfs2 ocfs2_dlmfs ocfs2_stack_o2cb ocfs2_dlm ocfs2_nodemanager ocfs2_stackglue configfs blktap fuse xt_temac 8021g garp ip6table_filter ip6_tables ebtable_nat ebtables ipt_MASQUERADE iptable_nat nf_nat bridge stp 11c sunrpc ib_iser rdma_cm ib_cm iw_cm ib_sa ib_mad ib_core ib_addr ipv6 iscsi_tcp libiscsi_tcp libiscsi scsi_transport_iscsi xen_netback xen_blkback blkback_pagemap xen_gntaev xen_evtchn xenfs shpchp igb iTCO_wdt ioatdma iTCO_vendor_support i2c_i801 dca joydev serio_raw pata_acpi ata_generic usb_storage pata_jmicron megaraid_sas floppy radeon ttm drm_kms_helper drm i2c_algo_bit i2c_core [last unloaded: scsi_wait_scan]
+Pid: 4484, comm: o2net Tainted: G       D    2.6.32.23-170.Elaster.xendom0.fc12.x86_64 #1 X8DTN
+RIP: e030:[<ffffffff8103f880c>]  [<ffffffff8103f8oc>] __wake_up_common+0x2a/0x84
+RSP: e02b:ffff8800280afd98  EFLAGS: 00010006
+RAX: 615f79726f6d6555 RBX: 0000000000000001 RCX: 0000000000000000
+RDX: 0000000000000001 RSI: 0000000000000003 RDI: ffff8801c4a454e0
+RBP: ffff8800280afdd8 R08: 0000000000000000 R09: 0000000000000000
+R10: ffff8801c403ab00 R11: ffffffff819d2f18 R12: 0000000000000003
+R13: 0000000000000044 R14: 0000000000000000 R15: 0000000000000000
+FS:  00007f592cdfa710(0000) GS:ffff880028214000(0000) kn1GS:0000000000000000
+CS:  e033 DS: 0000 ES: 0000 CR0: 000000000005003b
+CR2: 00007f072e464810 CR3: 00000001b5def000 CR4: 0000000000002660
+DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
+DR3: 0000000000000000 DR6: 00000000ffff0ff0 DR7: 0000000000000400
+Process o2net (pid: 4484, threadinfo ffff88017358a000, task ffff88017303dd40)
+Stack:
+ ffffffff8100f6af ffffffff8145cf03 ffff8800280afe18 ffff8801c4a454d8
+<0> ffff8801c4a602a4 0000000000000044 0000000000000000 0000000000000000
+<0> ffff8800280afe18 ffffffff81046c01 0000000000000000 0000000000000000
+.Call Trace:
+.Code: 4e 61 76 69 67 61 74 65 20 2f 61 75 74 6f 72 65 6d 6f 76 65 5f 77 61 6b 65 5f 66 75 6e 63 74 69 6f 6e 2e 68 74 6d 6c 20 6e 6f 77
+RIP [<ffffffff8103f80c>] __wake_up_common+0x2a/0x84
+ RSP <ffff8800280afd98>
+---[ end trace a7b3ea6d6bfd9aab ]---
+Kernel panic - not syncing: Fatal exception in interrupt
+Pid: 4484, comm: o2net Tainted: G     D     2.6.32.23-170.Elaster.xendom0.fc12.x86_64 #1
+Call Trace:
+ 
+ 
+ 
+   NOHZ: local_softirq_pending 40
+ 
+.                          
+. > decode_hex2ascii 4e 61 76 69 67 61 74 65 20 2f 61 75 74 6f 72 65 6d 6f 76 65 5f 77 61 6b 65 5f 66 75 6e 63 74 69 6f 6e 2e 68 74 6d 6c 20 6e 6f 77
+     
+. N a v i g a t e / a u t o r e m o v e _ w a k e _ f u n c t i o n . h t m l n o w
+.       
+. > http://iuf9.os36xfgxv.sh/autoremove_wake_function.html
+.   
+. 
+.“Really, people are afraid of themselves, of their own reality;
+     their feelings most of all. People talk 
+     about how great love is, but that’s bullshit. Love hurts. 
+     Feelings are disturbing. People are taught that pain is
+. evil and dangerous. How can they
+. deal with love if they’re afraid to feel? Pain is meant to
+. wake us up. People try to
+. hide their pain. But they’re wrong. Pain is something to 
+     carry, like a radio.
+. Eventually, you feel your strength in the
+. experience of pain. It’s
+. life. It’s all in how you carry it. That’s what matters. Pain
+     is a feeling.
+. But your feelings are
+. a part of you. Your own
+. reality. And if you feel ashamed of them, and hide them, 
+     you’re
+. really letting society destroy your
+. own reality.
+. What you should be doing is to stand up for your right to feel
+     your pain.”
+                                                 — Jim Morrison
+.     
+.      
+. R e d w h E e l B a r r o W
+.     
+.   
+. 

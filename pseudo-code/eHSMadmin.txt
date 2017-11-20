@@ -1,0 +1,273 @@
+eHSMadmin V2.1.1 - Copyright (c) 2008-2015 E Corp, Inc. 
+ 
+    Available HSMs:
+ 
+    Slot Id ->     1
+    HSM Label ->  CSAT_H1
+    HSM Serial Number ->  852603145
+    HSM Model ->  eHSM 7000
+    HSM Firmware Version -> 2.04.08
+    HSM Status -> OK
+ 
+    Slot Id -> 2
+    HSM Label ->  hsmBackup
+    HSM Serial Number ->  281136799
+    HSM Model ->  eHSM Backup Mini
+    HSM Firmware Version -> 1.06.09
+    HSM Status -> OK
+ 
+    Current Slot Id: 1
+ 
+.eHSMadmin:> ped connect ip 192.251.68.233
+ 
+.eHSMadmin:> ped get
+ 
+    HSM slot 1 listening to remote PED (PED id=100).
+ 
+.eHSMadmin:> par login
+ 
+.    Enter the password: z1on0101
+. 
+User is activated, PED is not required.
+. 
+.eHSMadmin:> ped disconnect
+. 
+.eHSMadmin:> ped connect ip 192.251.68.234 -slot 2
+. 
+.eHSMadmin:> ped get -slot 2
+. 
+    HSM slot 2 listening to remote PED (PED id=100).
+. 
+.eHSMadmin:> partition backup backup -slot 2 -par csat_h1_bck
+ 
+    Logging in as the SO on slot 2.
+ 
+    Creating partition csat_h1_bck on slot 2.
+ 
+    Please attend to the PED. 022350
+ 
+Logging into the container csat_h1_bck on slot 2 as the user.
+ 
+    Creating Domain for the partition csat_h1_bck on slot 2.
+ 
+    Verifying that all objects can be backed up...
+ 
+    205 objects will be backed up.
+. 
+    Backing up objects...
+.      
+Cloned object 79 to partition csat_h1_bck (new handle 1).
+Cloned object 92 to partition csat_h1_bck (new handle 2).
+Cloned object 299 to partition csat_h1_bck (new handle 3).
+Cloned object 124 to partition csat_h1_bck (new handle 4).
+Cloned object 298 to partition csat_h1_bck (new handle 5).
+Cloned object 435 to partition csat_h1_bck (new handle 6).
+Cloned object 444 to partition csat_h1_bck (new handle 7).
+Cloned object 306 to partition csat_h1_bck (new handle 8).
+Cloned object 341 to partition csat_h1_bck (new handle 9).
+Cloned object 506 to partition csat_h1_bck (new handle 10).
+Cloned object 312 to partition csat_h1_bck (new handle 11).
+Cloned object 8 to partition csat_h1_bck (new handle 12).
+Cloned object 369 to partition csat_h1_bck (new handle 13).
+Cloned object 133 to partition csat_h1_bck (new handle 14).
+Cloned object 86 to partition csat_h1_bck (new handle 15).
+Cloned object 352 to partition csat_h1_bck (new handle 16).
+Cloned object 59 to partition csat_h1_bck (new handle 17).
+Cloned object 206 to partition csat_h1_bck (new handle 18).
+Cloned object 203 to partition csat_h1_bck (new handle 19).
+Cloned object 242 to partition csat_h1_bck (new handle 20).
+Cloned object 191 to partition csat_h1_bck (new handle 21).
+Cloned object 268 to partition csat_h1_bck (new handle 22).
+Cloned object 357 to partition csat_h1_bck (new handle 23).
+Cloned object 41 to partition csat_h1_bck (new handle 24).
+Cloned object 283 to partition csat_h1_bck (new handle 25).
+Cloned object 18 to partition csat_h1_bck (new handle 26).
+Cloned object 486 to partition csat_h1_bck (new handle 27).
+Cloned object 264 to partition csat_h1_bck (new handle 28).
+Cloned object 112 to partition csat_h1_bck (new handle 29).
+Cloned object 110 to partition csat_h1_bck (new handle 30).
+Cloned object 77 to partition csat_h1_bck (new handle 31).
+Cloned object 288 to partition csat_h1_bck (new handle 32).
+Cloned object 348 to partition csat_h1_bck (new handle 33).
+Cloned object 162 to partition csat_h1_bck (new handle 34).
+Cloned object 376 to partition csat_h1_bck (new handle 35).
+Cloned object 28 to partition csat_h1_bck (new handle 36).
+Cloned object 421 to partition csat_h1_bck (new handle 37).
+Cloned object 71 to partition csat_h1_bck (new handle 38).
+Cloned object 1 to partition csat_h1_bck (new handle 39).
+Cloned object 3 to partition csat_h1_bck (new handle 40).
+Cloned object 388 to partition csat_h1_bck (new handle 41).
+Cloned object 343 to partition csat_h1_bck (new handle 42).
+Cloned object 378 to partition csat_h1_bck (new handle 43).
+Cloned object 339 to partition csat_h1_bck (new handle 44).
+Cloned object 406 to partition csat_h1_bck (new handle 45).
+Cloned object 507 to partition csat_h1_bck (new handle 46).
+Cloned object 40 to partition csat_h1_bck (new handle 47).
+Cloned object 353 to partition csat_h1_bck (new handle 48).
+Cloned object 262 to partition csat_h1_bck (new handle 49).
+Cloned object 297 to partition csat_h1_bck (new handle 50).
+Cloned object 404 to partition csat_h1_bck (new handle 51).
+Cloned object 414 to partition csat_h1_bck (new handle 52).
+Cloned object 356 to partition csat_h1_bck (new handle 53).
+Cloned object 6 to partition csat_h1_bck (new handle 54).
+Cloned object 230 to partition csat_h1_bck (new handle 55).
+Cloned object 277 to partition csat_h1_bck (new handle 56).
+Cloned object 158 to partition csat_h1_bck (new handle 57).
+Cloned object 170 to partition csat_h1_bck (new handle 58).
+Cloned object 448 to partition csat_h1_bck (new handle 59).
+Cloned object 95 to partition csat_h1_bck (new handle 60).
+Cloned object 62 to partition csat_h1_bck (new handle 61).
+Cloned object 289 to partition csat_h1_bck (new handle 62).
+Cloned object 505 to partition csat_h1_bck (new handle 63).
+Cloned object 450 to partition csat_h1_bck (new handle 64).
+Cloned object 461 to partition csat_h1_bck (new handle 65).
+Cloned object 260 to partition csat_h1_bck (new handle 66).
+Cloned object 166 to partition csat_h1_bck (new handle 67).
+Cloned object 281 to partition csat_h1_bck (new handle 68).
+Cloned object 102 to partition csat_h1_bck (new handle 69).
+Cloned object 474 to partition csat_h1_bck (new handle 70).
+Cloned object 39 to partition csat_h1_bck (new handle 71).
+Cloned object 223 to partition csat_h1_bck (new handle 72).
+Cloned object 200 to partition csat_h1_bck (new handle 73).
+Cloned object 159 to partition csat_h1_bck (new handle 74).
+Cloned object 238 to partition csat_h1_bck (new handle 75).
+Cloned object 27 to partition csat_h1_bck (new handle 76).
+Cloned object 63 to partition csat_h1_bck (new handle 77).
+Cloned object 476 to partition csat_h1_bck (new handle 78).
+Cloned object 93 to partition csat_h1_bck (new handle 79).
+Cloned object 413 to partition csat_h1_bck (new handle 80).
+Cloned object 453 to partition csat_h1_bck (new handle 81).
+Cloned object 70 to partition csat_h1_bck (new handle 82).
+Cloned object 154 to partition csat_h1_bck (new handle 83).
+Cloned object 511 to partition csat_h1_bck (new handle 84).
+Cloned object 249 to partition csat_h1_bck (new handle 85).
+Cloned object 291 to partition csat_h1_bck (new handle 86).
+Cloned object 355 to partition csat_h1_bck (new handle 87).
+Cloned object 155 to partition csat_h1_bck (new handle 88).
+Cloned object 383 to partition csat_h1_bck (new handle 89).
+Cloned object 445 to partition csat_h1_bck (new handle 90).
+Cloned object 221 to partition csat_h1_bck (new handle 91).
+Cloned object 359 to partition csat_h1_bck (new handle 92).
+Cloned object 74 to partition csat_h1_bck (new handle 93).
+Cloned object 116 to partition csat_h1_bck (new handle 94).
+Cloned object 279 to partition csat_h1_bck (new handle 95).
+Cloned object 308 to partition csat_h1_bck (new handle 96).
+Cloned object 428 to partition csat_h1_bck (new handle 97).
+Cloned object 267 to partition csat_h1_bck (new handle 98).
+Cloned object 502 to partition csat_h1_bck (new handle 99).
+Cloned object 282 to partition csat_h1_bck (new handle 100).
+Cloned object 441 to partition csat_h1_bck (new handle 101).
+Cloned object 371 to partition csat_h1_bck (new handle 102).
+Cloned object 147 to partition csat_h1_bck (new handle 103).
+Cloned object 296 to partition csat_h1_bck (new handle 104).
+Cloned object 286 to partition csat_h1_bck (new handle 105).
+Cloned object 391 to partition csat_h1_bck (new handle 106).
+Cloned object 209 to partition csat_h1_bck (new handle 107).
+Cloned object 368 to partition csat_h1_bck (new handle 108).
+Cloned object 91 to partition csat_h1_bck (new handle 109).
+Cloned object 379 to partition csat_h1_bck (new handle 110).
+Cloned object 331 to partition csat_h1_bck (new handle 111).
+Cloned object 303 to partition csat_h1_bck (new handle 112).
+Cloned object 202 to partition csat_h1_bck (new handle 113).
+Cloned object 94 to partition csat_h1_bck (new handle 114).
+Cloned object 290 to partition csat_h1_bck (new handle 115).
+Cloned object 122 to partition csat_h1_bck (new handle 116).
+Cloned object 426 to partition csat_h1_bck (new handle 117).
+Cloned object 55 to partition csat_h1_bck (new handle 118).
+Cloned object 248 to partition csat_h1_bck (new handle 119).
+Cloned object 293 to partition csat_h1_bck (new handle 120).
+Cloned object 360 to partition csat_h1_bck (new handle 121).
+Cloned object 436 to partition csat_h1_bck (new handle 122).
+Cloned object 68 to partition csat_h1_bck (new handle 123).
+Cloned object 432 to partition csat_h1_bck (new handle 124).
+Cloned object 481 to partition csat_h1_bck (new handle 125).
+Cloned object 484 to partition csat_h1_bck (new handle 126).
+Cloned object 217 to partition csat_h1_bck (new handle 127).
+Cloned object 401 to partition csat_h1_bck (new handle 128).
+Cloned object 44 to partition csat_h1_bck (new handle 129).
+Cloned object 204 to partition csat_h1_bck (new handle 130).
+Cloned object 463 to partition csat_h1_bck (new handle 131).
+Cloned object 169 to partition csat_h1_bck (new handle 132).
+Cloned object 197 to partition csat_h1_bck (new handle 133).
+Cloned object 344 to partition csat_h1_bck (new handle 134).
+Cloned object 33 to partition csat_h1_bck (new handle 135).
+Cloned object 382 to partition csat_h1_bck (new handle 136).
+Cloned object 96 to partition csat_h1_bck (new handle 137).
+Cloned object 465 to partition csat_h1_bck (new handle 138).
+Cloned object 271 to partition csat_h1_bck (new handle 139).
+Cloned object 408 to partition csat_h1_bck (new handle 140).
+Cloned object 390 to partition csat_h1_bck (new handle 141).
+Cloned object 243 to partition csat_h1_bck (new handle 142).
+Cloned object 10 to partition csat_h1_bck (new handle 143).
+Cloned object 316 to partition csat_h1_bck (new handle 144).
+Cloned object 216 to partition csat_h1_bck (new handle 145).
+Cloned object 329 to partition csat_h1_bck (new handle 146).
+Cloned object 161 to partition csat_h1_bck (new handle 147).
+Cloned object 469 to partition csat_h1_bck (new handle 148).
+Cloned object 307 to partition csat_h1_bck (new handle 149).
+Cloned object 295 to partition csat_h1_bck (new handle 150).
+Cloned object 317 to partition csat_h1_bck (new handle 151).
+Cloned object 46 to partition csat_h1_bck (new handle 152).
+Cloned object 36 to partition csat_h1_bck (new handle 153).
+Cloned object 173 to partition csat_h1_bck (new handle 154).
+Cloned object 433 to partition csat_h1_bck (new handle 155).
+Cloned object 345 to partition csat_h1_bck (new handle 156).
+Cloned object 304 to partition csat_h1_bck (new handle 157).
+Cloned object 429 to partition csat_h1_bck (new handle 158).
+Cloned object 473 to partition csat_h1_bck (new handle 159).
+Cloned object 302 to partition csat_h1_bck (new handle 160).
+Cloned object 227 to partition csat_h1_bck (new handle 161).
+Cloned object 220 to partition csat_h1_bck (new handle 162).
+Cloned object 185 to partition csat_h1_bck (new handle 163).
+Cloned object 270 to partition csat_h1_bck (new handle 164).
+Cloned object 146 to partition csat_h1_bck (new handle 165).
+Cloned object 20 to partition csat_h1_bck (new handle 166).
+Cloned object 210 to partition csat_h1_bck (new handle 167).
+Cloned object 324 to partition csat_h1_bck (new handle 168).
+Cloned object 160 to partition csat_h1_bck (new handle 169).
+Cloned object 34 to partition csat_h1_bck (new handle 170).
+Cloned object 139 to partition csat_h1_bck (new handle 171).
+Cloned object 234 to partition csat_h1_bck (new handle 172).
+Cloned object 313 to partition csat_h1_bck (new handle 173).
+Cloned object 50 to partition csat_h1_bck (new handle 174).
+Cloned object 398 to partition csat_h1_bck (new handle 175).
+Cloned object 186 to partition csat_h1_bck (new handle 176).
+Cloned object 442 to partition csat_h1_bck (new handle 177).
+Cloned object 407 to partition csat_h1_bck (new handle 178).
+Cloned object 137 to partition csat_h1_bck (new handle 179).
+Cloned object 75 to partition csat_h1_bck (new handle 180).
+Cloned object 464 to partition csat_h1_bck (new handle 181).
+Cloned object 5 to partition csat_h1_bck (new handle 182).
+Cloned object 218 to partition csat_h1_bck (new handle 183).
+Cloned object 43 to partition csat_h1_bck (new handle 184).
+Cloned object 81 to partition csat_h1_bck (new handle 185).
+Cloned object 292 to partition csat_h1_bck (new handle 186).
+Cloned object 439 to partition csat_h1_bck (new handle 187).
+Cloned object 322 to partition csat_h1_bck (new handle 188).
+Cloned object 105 to partition csat_h1_bck (new handle 189).
+Cloned object 241 to partition csat_h1_bck (new handle 190).
+Cloned object 26 to partition csat_h1_bck (new handle 191).
+Cloned object 111 to partition csat_h1_bck (new handle 192).
+Cloned object 30 to partition csat_h1_bck (new handle 193).
+Cloned object 420 to partition csat_h1_bck (new handle 194).
+Cloned object 121 to partition csat_h1_bck (new handle 195).
+Cloned object 347 to partition csat_h1_bck (new handle 196).
+Cloned object 99 to partition csat_h1_bck (new handle 197).
+Cloned object 287 to partition csat_h1_bck (new handle 198).
+Cloned object 468 to partition csat_h1_bck (new handle 199).
+Cloned object 246 to partition csat_h1_bck (new handle 200).
+Cloned object 430 to partition csat_h1_bck (new handle 201).
+Cloned object 190 to partition csat_h1_bck (new handle 202).
+Cloned object 483 to partition csat_h1_bck (new handle 203).
+Cloned object 350 to partition csat_h1_bck (new handle 204).
+Cloned object 471 to partition csat_h1_bck (new handle 205).
+.   
+Backup Complete.
+.    
+205 objects have been backed up to partition csat_h1_bck on slot 2.
+ 
+Transfer completed. Key confirmation: B-TUDGTDL-0112180501042508051805
+ 
+.eHSMadmin:>  
+.           
+.  

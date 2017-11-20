@@ -1,0 +1,32 @@
+.> http://www.ascii2hex.com/
+.  
+.Free text conversion tools
+--------------------------
+. 
+Text (ASCII/ANSI)
+-----------------
+.commodore
+  
+Binary
+------
+.01100011 01101111 01101101 
+.01101101 01101111 01100100 
+.01101111 01110010 01100101 
+  
+URL encoded
+-----------
+.commodore
+  
+Hexadecimal
+-----------
+.63 6f 6d 6d 6f 64 6f 72 65 
+  
+BASE64
+------
+.Y29tbW9kb3Jl
+  
+Decimal
+-------
+.99 111 109 109 111 100 111 114 101
+  
+.  

@@ -1,0 +1,31 @@
+.> http://www.racksure.com/
+  
+.Racksure - The Global Solutions Provider
+----------------------------------------
+.Virtual Private Server solutions.
+ 
+.Flexible infrastructure, accelerated service with world-class security.
+  
+Power
+-----
+Hardware capable enough to handle the most CPU-intensive apps can be scaled to fit your needs.
+  
+Security
+--------
+Relax. Your data is protected and secured using tools like Cloud Security Collections and secure private networking features.
+  
+Global
+------
+Enterprise-class data centers across the world allow you to deploy your apps within your user's geo-location that reduces latency.
+.         
+MORE FEATURES
+-------------
+  
+Powerful Intel® Xeon® processors breeze through the toughest tasks.
+Choose your OS: Ubuntu, GNOME, Xubuntu, Kubuntu, Pentoo, Kali or Windows.
+Local SSD storage eliminates potential bottlenecks.
+Cloud Load Balancers allow you to distribute and scale your workloads.
+Create private and secure connectivity using our Secure Cloud Network.
+Use Role-Based Access Controls to enhance security.
+Enable two-factor authentication for extra security.
+.          

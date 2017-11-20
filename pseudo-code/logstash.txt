@@ -1,0 +1,125 @@
+login as: samsepi01
+samsepi01's password:
+,samsepi01@elkbox:/~$ cd /usr/local/logstash-ups
+,samsepi01@elkbox:/root/usr/local/logstash-ups$ ls
+results-2015-06-15.txt
+results-2015-06-16.txt
+results-2015-06-17.txt
+results-2015-06-18.txt
+results-2015-06-19.txt
+results-2015-06-20.txt
+results-2015-06-21.txt
+results-2015-06-22.txt
+results-2015-06-23.txt
+results-2015-06-24.txt
+results-2015-06-25.txt
+results-2015-06-26.txt
+results-2015-06-27.txt
+results-2015-06-28.txt
+results-2015-06-29.txt
+results-2015-06-30.txt
+results-2015-07-01.txt
+results-2015-07-02.txt
+results-2015-07-03.txt
+results-2015-07-04.txt
+results-2015-07-05.txt
+results-2015-07-06.txt
+results-2015-07-07.txt
+results-2015-07-08.txt
+results-2015-07-09.txt
+results-2015-07-10.txt
+results-2015-07-11.txt
+results-2015-07-12.txt
+results-2015-07-13.txt
+results-2015-07-14.txt
+results-2015-07-15.txt
+results-2015-07-16.txt
+results-2015-07-17.txt
+results-2015-07-18.txt
+results-2015-07-19.txt
+results-2015-07-20.txt
+results-2015-07-21.txt
+results-2015-07-22.txt
+results-2015-07-23.txt
+results-2015-07-24.txt
+results-2015-07-25.txt
+results-2015-07-26.txt
+results-2015-07-27.txt
+results-2015-07-28.txt
+results-2015-07-29.txt
+results-2015-07-30.txt
+results-2015-07-31.txt
+results-2015-08-01.txt
+results-2015-08-01.txt
+results-2015-08-02.txt
+results-2015-08-03.txt
+results-2015-08-04.txt
+results-2015-08-05.txt
+results-2015-08-06.txt
+results-2015-08-07.txt
+results-2015-08-08.txt
+results-2015-08-09.txt
+results-2015-08-10.txt
+results-2015-08-11.txt
+results-2015-08-12.txt
+results-2015-08-13.txt
+results-2015-08-14.txt
+results-2015-08-15.txt
+results-2015-08-16.txt
+results-2015-08-17.txt
+results-2015-08-18.txt
+results-2015-08-19.txt
+results-2015-08-20.txt
+results-2015-08-21.txt
+results-2015-08-22.txt
+results-2015-08-23.txt
+results-2015-08-24.txt
+results-2015-08-25.txt
+results-2015-08-26.txt
+results-2015-08-27.txt
+results-2015-08-28.txt
+results-2015-08-29.txt
+results-2015-08-30.txt
+results-2015-08-31.txt
+results-2015-09-01.txt
+results-2015-09-02.txt
+results-2015-09-03.txt
+results-2015-09-04.txt
+results-2015-09-05.txt
+results-2015-09-06.txt
+results-2015-09-07.txt
+results-2015-09-08.txt
+results-2015-09-09.txt
+results-2015-09-10.txt
+results-2015-09-11.txt
+results-2015-09-12.txt
+results-2015-09-13.txt
+results-2015-09-14.txt
+results-2015-09-15.txt
+results-2015-09-16.txt
+results-2015-09-17.txt
+results-2015-09-18.txt
+results-2015-09-19.txt
+results-2015-09-20.txt
+results-2015-09-21.txt
+results-2015-09-22.txt
+results-2015-09-23.txt
+results-2015-09-24.txt
+results-2015-09-25.txt
+results-2015-09-26.txt
+results-2015-09-27.txt
+results-2015-09-28.txt
+results-2015-09-29.txt
+samsepi01@elkbox:/root/usr/local/logstash-ups$ tail results-2015-09-29.txt
+tail results-2015-09-29.txt
+09/25/15: 06:05:10 192.251.68.229: Pinging (via IMCP) device
+09/25/15: 06:05:12 192.251.68.229: Device connection passed
+09/25/15: 06:05:13 192.251.68.229: Testing FTP Log-in
+09/25/15: 06:05:19 192.251.68.229: FTP Log-in passed
+09/25/15: 06:05:28 192.251.68.229: Saving data file
+09/25/15: 06:05:35 192.251.68.229: OS Prior to firmware transfer: Network Management Card OS v6.4.1
+09/25/15: 06:05:41 192.251.68.229: Saving event & configuration files
+09/25/15: 06:05:49 192.251.68.229: Validating firmware file (1/1)
+09/25/15: 06:06:32 192.251.68.229: Signature check failed, update aborted
+09/25/15: 06:07:20 192.251.68.229: Encountered 1 failure during upgrade
+samsepi01@elkbox:/root/usr/local/logstash-ups$  

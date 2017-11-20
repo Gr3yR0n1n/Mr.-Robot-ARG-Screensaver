@@ -1,0 +1,79 @@
+.212-804-6003
+.            
+.  Thank you for calling the E-Corp helpline. 
+.  Following the recent events, were experiencing 
+.  an unusually high caller volume. 
+.  To avoid waiting and for more information 
+.  please visit out webpage at www################
+.  ###############################################
+  ###############################################
+  ###############################################
+.                                                
+.  
+.  "In order for the light to shine so brightly 
+.  the darkness must be present"
+.                           
+.  AABABBAAABABBABAAABAAAABBABBABBAABABAAABAABBB
+.                                               
+.                                               
+.             FSOCDOTSH
+. 
+.                                                   
+.  www.fsoc.sh
+.    
+.  You need to open your eyes before we can open your mind...
+.                                                            
+.             
+. handleBlinkTime: function(t, e) {
+        var n = 300,
+            r = t.charAt(e),
+            i = 0,
+            o = n;
+        switch (r) {
+            case "9":
+                i = 3 * n;
+.                break;
+            case "3":
+                i = n;
+                break;
+.            case "5":
+                o = 3 * n;
+                break;
+.            case "7":
+                o = 7 * n
+        }
+.        var u = this;
+.       i && u.$(".eye__cursor").css("opacity", 1), setTimeout(function() {
+.            u.$(".eye__cursor").css("opacity", 0), setTimeout(function() {
+                t.length > e + 1 ? u.handleBlinkTime(t, e + 1) : setTimeout(function() {
+                    u.handleBlinkTime(t, 0)
+.                }, 4e3)
+            }, o)
+        }, i)
+    },
+.       
+. 4C4F4F4B205550
+.                 
+.                
+. LOOK UP
+.            
+.     .-.. . .- ...- . / -- . / .... . .-. .
+. 
+.                                      
+. LEAVE ME HERE
+.  
+.    
+. https://www.fsoc.sh/KqQsv82u8A/
+. 
+. <mr. robot> Hello, friend...
+.  
+. <mr. robot> Congratulations on making it through 
+.             our little test. 
+.             By getting this far, you have demonstrated
+.             your resourcefulness, intelligence, 
+.             curiosity, and dedication to fsociety.
+.  
+. <mr. robot> We are fsociety, and we are finally free. 
+  
+  
+. 

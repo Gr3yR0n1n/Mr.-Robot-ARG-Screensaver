@@ -1,0 +1,72 @@
+.> http://irc.colo-solutions.net/
+.
+    Connect to IRC
+    --------------
+  
+.Nickname: D0loresH4ze
+.Channels: #th3g3ntl3man
+.                       
+[03:34] webirc v5.9.15
+[03:34] == Connecting to server, please wait...
+[03:34] == *** (webirc) Looking up your hostname...
+[03:34] == *** (webirc) Found your hostname.
+[03:34] == Logging in, please wait...
+.      
+[03:34] -irc.colo-solutions.net- *** Looking up your hostname...
+.                
+[03:34] -irc.colo-solutions.net- *** Checking Ident
+[03:34] -irc.colo-solutions.net- *** No Ident response
+[03:34] -irc.colo-solutions.net- *** Couldn't look up your hostname
+[03:34] == CGI:IRC host/IP set to gateway/web/irc/session 192.251.68.249
+[03:34] == Signed on!
+[03:34] == Welcome to the Internet Relay Chat Network D0loresH4ze
+[03:34] == Your host is irc.colo-solutions.net[127.0.0.1/6667], running version irc5-nine-1.1.3
+[03:34] == This server was created Sat May 09 2015 at 13:30:11 EST
+[03:34] == irc.colo-solutions.net irc5-nine-1.1.3
+[03:34] == CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:30 MODES=4 NETWORK=colo-solutions KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+[03:34] == CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=30 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: are supported by this server
+[03:34] == EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this server
+[03:34] == There are 2 users and 0 invisible on 1 servers
+[03:34] == 1 IRC Operators online
+[03:34] == 1 unknown connection(s)
+[03:34] == 1 channels formed
+[03:34] == I have 2 clients and 1 servers
+[03:34] == 2 2 Current local users 2, max 2
+[03:34] == 2 2 Current global users 2, max 2
+[03:34] == Highest connection count: 2 (2 clients) (2 connections received)
+[03:34] == Usermode change: +i
+[03:34] == gateway/web/irc/ip.192.251.68.249 is now your hidden host (set by syn.)
+ 
+ 
+ 
+ 
+.                 
+.#th3g3ntl3man: (no topic set)
+[03:35] == D0loresH4ze [~D0loresH4ze@72.247.178.23] has joined #th3g3ntl3man
+[03:35] == samsepi0l [~samsepi0l@192.251.68.240] has joined #th3g3ntl3man
+.[03:35] <samsepi0l> what was the name of that operation again?
+.[04:22] <D0loresH4ze> berenstein
+.[04:22] <samsepi0l> I think you mean "berenstain"
+.[04:22] <samsepi0l> okay, the FBI standard issue smartphone 
+.                    runs android
+.[04:22] <samsepi0l> http://imgur.com/a/uAqpN
+.[04:22] <samsepi0l> we plant a femtocell on the FBI floor at 
+.                    e corp. wifi capable
+.[04:22] <samsepi0l> every android phone in range will connect 
+.                    to it, then our exploit runs
+.[04:22] <samsepi0l> from the phones, we’ll be able to get 
+.                    emails-hopefully for the past 30 days, 
+                    and SMS
+.[04:22] <samsepi0l> basically anything on local storage
+.[04:22] <samsepi0l> it will need to be patched into the e corp 
+.                    network too- maybe we find the IDF on that
+                    floor.
+.[04:23] <samsepi0l> then we can poke around on the new network 
+.                    and pull from their new email/file servers
+.[04:23] <samsepi0l> coding the exploit now
+.[04:23] <samsepi0l> will come back on when i’m closer to being 
+                    done
+[04:23] == samsepi0l [~samsepi0l@192.251.68.240] has quit [Client Quit]
+.                   
+.                   
+  

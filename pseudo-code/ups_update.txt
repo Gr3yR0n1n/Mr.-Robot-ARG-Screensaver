@@ -1,0 +1,20 @@
+root@K6F7241:~$ ssh upsadmin@192.251.68.229
+upsadmin@192.251.68.229’s password:
+  
+E Corp Power Management Systems         Network Management Card OS v.6.4.0
+© Copyright 2012 All Rights Reserved
+--------------------------------------------------------------------------
+Name     : PD511326                              Date : 09/08/2015
+Contact  : Matt Mitchell                         Time : 11:10:11
+Location : NY Recovery Building                  User : upsadmin
+Up Time  : 0 Days, 0 Hours, 24 Minutes           Stat : P+ N+ A+
+  
+,ups> cfgpower -all
+E0000: Success
+Low Transfer Voltage: 106 VAC
+High Transfer Voltage: 127 VAC
+Sensitivity: Normal
+,ups> upsfwupdate -lastresult
+E0000: Success
+Last updated 09/08/15 11:10
+ups>  

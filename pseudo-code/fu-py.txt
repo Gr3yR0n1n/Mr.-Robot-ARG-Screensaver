@@ -1,0 +1,25 @@
+[root@srv tmp]# cd /tmp;ls
+systemd-private-Nyj87o  systemd-private-yE3S7D  update_checker_cache.pkl
+[root@srv tmp]# mkdir .1
+[root@srv tmp]# ls
+systemd-private-Nyj87o  systemd-private-yE3S7D  update_checker_cache.pkl
+[root@srv tmp]# ls -alh
+total 12K
+drwxrwxrwt. 10 root   root   4.0K Aug 21 19:53 .
+drwxr-xr-x. 17 root   root   4.0K Jan 31  2015 ..
+drwxr-xr-x.  2 root   root  6 Aug 21 19:53 .1
+drwxrwxrwt.  2 root   root  6 Nov 13  2014 .font-unix
+drwxrwxrwt.  2 root   root  6 Nov 13  2014 .ICE-unix
+drwx------.  3 root   root 16 Aug 18 10:35 systemd-private-Nyj87o
+drwx------.  3 root   root 16 Jul  6 14:22 systemd-private-yE3S7D
+drwxrwxrwt.  2 root   root  6 Nov 13  2014 .Test-unix
+-rw-r--r--.  1 root   root  212 Aug 19 11:57 update_checker_cache.pkl
+drwxrwxrwt.  2 root   root  6 Nov 13  2014 .X11-unix
+drwxrwxrwt.  2 root   root  6 Nov 13  2014 .XIM-unix
+[root@srv tmp]# cd .1
+[root@srv .1]# mkdir ...
+[root@srv .1]# ls -alh
+total 4.0K
+drwxr-xr-x.  3 root root   16 Aug 21 19:53 .
+drwxrwxrwt. 10 root root 4.0K Aug 21 19:53 ..
+drwxr-xr-x.  2 root root  6 Aug 21 19:53 ...
